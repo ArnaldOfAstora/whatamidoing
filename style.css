@@ -1,0 +1,13 @@
+#text{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Lucida Console";
+    width: 30%;
+    padding: 70px 0;
+    border: 3px solid rgb(255, 255, 255);
+    margin-left: auto;
+    margin-top: 300px;
+    margin-bottom: auto;
+    margin-right: auto;
+    font-size: 17;
+}
